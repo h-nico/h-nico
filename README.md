@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://64.media.tumblr.com/fb4608e676643026f950e8fe89ae9587/fefe17823be0f5bf-3d/s500x750/86944d069dbabb61e8a7db834ff6d3e98fd94e35.gifv" width="650" height="400"/>
+</div>
+
+<br/>
+
+<div align="center">
   <div align="center">
       🛠
     </div>
@@ -19,7 +25,7 @@
   🌎
 </div>
     
-  *Learning German*
+  *Currently learning German*
     <br/>
     <br/>
   <h3>Tech I actively use</h3>
@@ -46,12 +52,8 @@
   ![](https://img.shields.io/badge/-Go-214A69?style=flat-square&logo=go)
   ![](https://img.shields.io/badge/-Haskell-6B385E?style=flat-square&logo=haskell)
   ![](https://img.shields.io/badge/-Kubernetes-245966?style=flat-square&logo=kubernetes)
-  
-  Did I mention I love Pixel Art?
-</div>
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/fb4608e676643026f950e8fe89ae9587/fefe17823be0f5bf-3d/s500x750/86944d069dbabb61e8a7db834ff6d3e98fd94e35.gifv" width="750" height="500"/>
+  <br/>
   
   *Art by <a href="https://1041uuu.tumblr.com/">Yuuta Toyoi</a>*
 </div>

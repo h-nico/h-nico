@@ -13,13 +13,13 @@
       🛠
     </div>
     
-  *I'm a graduated engineer, currently working as a frontend developer*
+  *I'm a graduated engineer, currently working as a sofware developer*
 
 <div align="center">
   ⚔️
 </div>
     
-  *I play videogames very often, right now playing World of Warcraft*
+  *I play videogames very often (mainly rpgs), right now playing World of Warcraft: Shadowlands*
     
 <div align="center">
   🌎

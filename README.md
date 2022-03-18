@@ -19,7 +19,7 @@
   ⚔️
 </div>
     
-  *I play videogames very often (mainly rpgs), right now playing World of Warcraft: Shadowlands*
+  *I play videogames very often (mainly rpgs)*
     
 <div align="center">
   🌎
